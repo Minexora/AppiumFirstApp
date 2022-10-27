@@ -7,3 +7,6 @@
   # Eğer çalışmaz ise
   dumpsys window | grep -iE "mCurrentFocus=Window{"
   ```
+
+- Uygulamaların indirildiği url  **https://apkcombo.com/** adresidir.
+- Inspector **https://github.com/appium/appium-inspector**  adresinden indirilebilir.
