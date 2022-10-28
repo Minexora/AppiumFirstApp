@@ -11,3 +11,4 @@
 - Uygulamaların indirildiği url  **https://apkcombo.com/** adresidir.
 - Inspector **https://github.com/appium/appium-inspector**  adresinden indirilebilir.
 - Appium Server **https://github.com/appium/appium-desktop/releases/tag/v1.22.3-4** adresinden indirilebilir.
+- Capabilities bilgilerinin detaylarına **https://appium.io/docs/en/writing-running-appium/caps/** adresinden ulaşbilirsiniz.
