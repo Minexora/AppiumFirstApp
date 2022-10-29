@@ -1,4 +1,4 @@
-# Run Appium Fron Emulator
+# Run Appium For Emulator
 
 - Uygulamanın Activity ve package bilgilerini öğrenmek için;
   ```bash
