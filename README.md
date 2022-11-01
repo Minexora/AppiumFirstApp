@@ -1,4 +1,4 @@
-# Run Appium For Emulator
+# Run Appium Fron Emulator
 
 - Uygulamanın Activity ve package bilgilerini öğrenmek için;
   ```bash
@@ -12,3 +12,6 @@
 - Inspector **https://github.com/appium/appium-inspector**  adresinden indirilebilir.
 - Appium Server **https://github.com/appium/appium-desktop/releases/tag/v1.22.3-4** adresinden indirilebilir.
 - Capabilities bilgilerinin detaylarına **https://appium.io/docs/en/writing-running-appium/caps/** adresinden ulaşbilirsiniz.
+- Emulatörü snapshottan başlatmak için **emulator -avd <emulator_name> -no-window -noaudio -snapshot <snapshot_name>** yazılabilir.
+- Emulatorün snapshatını almak için **adb emu avd snapshot save <snapshot_name>** yazılabilir.
+
